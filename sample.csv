@@ -1,0 +1,7 @@
+country,year,electricity_and_heat_co2_emissions,electricity_and_heat_co2_emissions_per_capita,energy_co2_emissions,energy_co2_emissions_per_capita,total_co2_emissions_excluding_lucf,total_co2_emissions_excluding_lucf_per_capita
+USA,2020,100.0,0.30,200.0,0.60,300.0,0.90
+USA,2021,110.0,0.31,210.0,0.61,310.0,0.91
+Mexico,2020,50.0,0.20,70.0,0.40,90.0,0.50
+Canada,2020,,0.25,80.0,0.50,100.0,0.70
+Brazil,2019,40.0,,60.0,,80.0,
+France,2022,30.0,0.10,45.0,0.20,55.0,0.30
